@@ -59,7 +59,7 @@ Tip: If servos are jittering or weak, use a separate battery pack (like 4xAA) in
 - Make sure to change the COM port in the script (e.g., 'COM4') to match your Arduino.
 - Run it using:
 
-python main.py
+python Servo_move_with _hand_gesture.py
 
 - Put your hand in front of the webcam.
 - The program will detect hand gestures and send angles to the Arduino to rotate the servos.
