@@ -95,18 +95,9 @@ CREDITS & NOTES
 - ChatGPT helped me debug and improve the logic.
 - This is my own original idea and execution.
 - The project shows my skill in Computer Vision and Hardware Control.
-
-====================
-FOLDER STRUCTURE
-====================
-
-Servo_move_with-_hand_gesture/
-├── main.py        # Python script for hand detection
-├── servo.ino      # Arduino code to move servos
-└── README.md      # This file
-
+- 
 ====================
 WATCH THE DEMO VIDEO
 ====================
 
-Make sure to watch the demo video (link provided in repo) to see this working live.
+working_video.mp4
