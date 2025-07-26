@@ -49,7 +49,7 @@ Tip: If servos are jittering or weak, use a separate battery pack (like 4xAA) in
 
 3. UPLOAD ARDUINO CODE
 
-- Open the "servo.ino" file with Arduino IDE.
+- Open the "Servo_move_cpp.ino" file with Arduino IDE.
 - Select the correct board and COM port.
 - Upload the code to your Arduino.
 
