@@ -7,6 +7,11 @@ This a project used your computer camara to move servo in it the more distance y
 This project uses Computer Vision with MediaPipe to detect hand gestures through a webcam and control two servo motors connected to an Arduino. Based on finger positions, the servo motors rotate to specific angles in real time.
 
 👉 Watch the video linked in the repository to see how this works!
+====================
+WATCH THE DEMO VIDEO
+====================
+
+https://youtu.be/DL3HfwCigrM
 
 ====================
 WHAT YOU’LL NEED
@@ -96,8 +101,4 @@ CREDITS & NOTES
 - This is my own original idea and execution.
 - The project shows my skill in Computer Vision and Hardware Control.
 - 
-====================
-WATCH THE DEMO VIDEO
-====================
 
-working_video.mp4
